@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "3770d3f4e20eecdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9caea90f1306e71c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91478df3fdeaf0b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9b0b65eb4ea126f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae060e2459172fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6f03a136fd2d90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "48559421c3d0ab8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e6d9be538f1ecd04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88eb1d35eaa4bdac",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc099ef65535122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f279f18c400ded1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d27c5defb10ac25c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "65f4c8c4d8e178e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7512d5bd6919b1a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "91478df3fdeaf0b7",
+  "lastOpenFiles": [
+    "Storytelling.md",
+    "README.md.md",
+    "README.md",
+    "notebooks/nlp_entrega.ipynb",
+    "notebooks",
+    "docs/docs_curso/produtos/produtos.csv",
+    "docs/docs_curso/Aula_5_DTS_PLN_IA_generativa_demo/Aula_5_DTS_PLN_Demo_IA_Generativa.ipynb",
+    "docs/docs_curso/Aula_5_DTS_PLN_IA_generativa_demo/Aula 5 - DTS - NLP - v1.0.pdf",
+    "docs/docs_curso/Aula_4_DTS_PLN_Embeddings_word2vec_demo/Aula_4_DTS_PLN_Demo.ipynb",
+    "docs/docs_curso/Aula_4_DTS_PLN_Embeddings_word2vec_demo/Aula 4 - DTS - NLP - v1.0.pdf",
+    "docs/docs_curso/Aula_3_DTS_PLN_Análise_Tópicos_exercício_corrigido/Aula_3_DTS_PLN_Exercício_corrigido.ipynb",
+    "docs/docs_curso/Aula_3_DTS_PLN_Análise_Tópicos_demo/Aula_3_DTS_PLN_Demo.ipynb",
+    "docs/docs_curso/Aula_3_DTS_PLN_Análise_Tópicos_demo/Aula 3 - DTS - NLP - v1.0.pdf",
+    "docs/protocolo/PROTOCOLO_LLM_UNIVERSAL_v5.2.md",
+    "docs/planejamento/Plano de Ataque - NotebookLM.md",
+    "docs/descricao_exercicio/DESCRIÇÃO DO EXERCÍCIO.md",
+    "bases_criadas/grafico_comparativo_f1score.png",
+    "MBA_NLP-20250630T205111Z-1-001/MBA_NLP/docs/descricao_exercicio/DESCRIÇÃO DO EXERCÍCIO.md",
+    "MBA_NLP-20250630T205111Z-1-001/MBA_NLP/docs/protocolo/PROTOCOLO_LLM_UNIVERSAL_v5.2.md",
+    "MBA_NLP-20250630T205111Z-1-001/MBA_NLP/docs/planejamento/Plano de Ataque - NotebookLM.md",
+    "MBA_NLP-20250630T205111Z-1-001/MBA_NLP/bases_criadas/grafico_comparativo_f1score.png",
+    "Plano de Ação Detalhado.md",
+    "docs/planejamento/Plano de Ação Detalhado.md",
+    "DESCRIÇÃO DO EXERCÍCIO.md",
+    "docs/PROTOCOLO_LLM_UNIVERSAL_v5.2.md"
+  ]
+}

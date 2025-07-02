@@ -11,10 +11,14 @@
             "id": "91478df3fdeaf0b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/protocolo/PROTOCOLO_LLM_UNIVERSAL_v5.2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "PROTOCOLO_LLM_UNIVERSAL_v5.2"
             }
           }
         ]
@@ -163,6 +167,11 @@
   },
   "active": "91478df3fdeaf0b7",
   "lastOpenFiles": [
+    "entrega_RM357053_RM358310.ipynb",
+    "notebooks/entrega_RM357053_RM358310.ipynb",
+    "notebooks/modelo_campeao.ipynb",
+    "bases_criadas/grafico_comparativo_f1score_base64.txt",
+    "notebooks/RM 357053 - WILSON ROBERTO DE MELO.ipynb",
     "Storytelling.md",
     "README.md.md",
     "README.md",
@@ -172,10 +181,6 @@
     "docs/docs_curso/Aula_5_DTS_PLN_IA_generativa_demo/Aula_5_DTS_PLN_Demo_IA_Generativa.ipynb",
     "docs/docs_curso/Aula_5_DTS_PLN_IA_generativa_demo/Aula 5 - DTS - NLP - v1.0.pdf",
     "docs/docs_curso/Aula_4_DTS_PLN_Embeddings_word2vec_demo/Aula_4_DTS_PLN_Demo.ipynb",
-    "docs/docs_curso/Aula_4_DTS_PLN_Embeddings_word2vec_demo/Aula 4 - DTS - NLP - v1.0.pdf",
-    "docs/docs_curso/Aula_3_DTS_PLN_Análise_Tópicos_exercício_corrigido/Aula_3_DTS_PLN_Exercício_corrigido.ipynb",
-    "docs/docs_curso/Aula_3_DTS_PLN_Análise_Tópicos_demo/Aula_3_DTS_PLN_Demo.ipynb",
-    "docs/docs_curso/Aula_3_DTS_PLN_Análise_Tópicos_demo/Aula 3 - DTS - NLP - v1.0.pdf",
     "docs/protocolo/PROTOCOLO_LLM_UNIVERSAL_v5.2.md",
     "docs/planejamento/Plano de Ataque - NotebookLM.md",
     "docs/descricao_exercicio/DESCRIÇÃO DO EXERCÍCIO.md",
